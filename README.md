@@ -1,5 +1,7 @@
-# Rednote Video Downloader - Professional Online Watermark Removal Tool
+# Rednote Video Downloader
 Rednote Video Downloader is a remarkable online tool that simplifies the process of removing watermarks from videos and images sourced from major global social platforms. You can access the tool at [Rednote Video Downloader](https://rednote-video-downloader.com/).
+
+![Rednote Video Downloader Interface](https://rednote-video-downloader.com/imgs/features/watermark-tool.png)
 
 ## Key Features
 1. **User - Friendly Operation**: It's incredibly easy to use. All you need to do is copy and paste the link of the video or image into the designated text box, and then click the "Remove Watermark" button. There's no need to download any software, making it accessible across various browsers and operating systems without any installation hassle.
@@ -29,6 +31,6 @@ The tool also provides a comprehensive FAQ section that addresses common questio
 
 ## Visual Representation
 The following image shows the main interface of Rednote Video Downloader, where you can paste the video or image link to start the watermark removal process.
-![Rednote Video Downloader Interface](https://rednote-video-downloader.com/imgs/features/watermark-tool.png)
+
 
 In conclusion, Rednote Video Downloader is a powerful, user - friendly, and feature - rich tool for anyone looking to remove watermarks from videos and images. Whether you're a casual user, a social media professional, or a content creator, it has a plan and features to meet your needs. 
